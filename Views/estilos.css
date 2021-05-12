@@ -1,0 +1,80 @@
+.imgLogin
+{
+	height: 25em;
+	width: 20em;
+	margin: auto;
+}
+
+section
+{
+  background: url("Fondo.jpg") no-repeat center;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.header .navbar 
+{
+  background-color: transparent !important;
+  background: url("Header.jpeg") no-repeat top;
+  font-size: 1.8em;
+  font-weight: bold;
+  color: white;
+ }
+
+ .navbar-brand
+ {
+ 	margin-left:  15%;
+ }
+
+footer
+{
+	background-color: #ffb001;
+	bottom: 0;
+	position: fixed;
+	width: 100%;
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+
+.titulo	
+{
+	color: white;
+}
+.fontIntr
+{
+	font-size: 1.7em;
+	font-family: 'century gotic';
+	color: white;
+	text-align: center;
+}
+
+#login
+{
+	display: inline-block;
+	width: 40%;
+	margin-bottom: 20%;
+	margin-left: 70px;
+	box-sizing: border-box;
+	justify-content: center;
+}
+ .introduccion
+ {
+ 	display: inline-block;
+ 	width: 40%;
+ 	margin-left: 20px;
+ 	margin-bottom: 10%;
+ 	box-sizing: border-box;
+ 	text-align: center;
+ 	padding-bottom: 4%;
+}
+.principal
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.labelLg
+{
+	font-size: 1.5em;
+}
+
